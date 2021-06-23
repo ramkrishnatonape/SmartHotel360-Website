@@ -45,14 +45,6 @@ class Home extends Component {
                                  </div>
                             </a>
                         </li>
-        <li className='sh-hero-button'>
-                            <a className='sh-hero-button-link' href="https://aka.ms/smarthotel360android">
-                                <div className='sh-hero-download_app'>
-                                    <div className='sh-hero-download_app-subtitle'>Get it now for</div>
-                                    Linux OS
-                                 </div>
-                            </a>
-                        </li>
                     </ul>
                 </div>
             </div>
